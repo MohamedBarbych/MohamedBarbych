@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed BARBYCH</h1>
 <h3 align="center">A passionate Software Engineering & Intelligent Systems Student from Morocoo</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-barbych&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-barbych" /> </p>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedBarbych%2FMohamedBarbych%2Ftree%2Fmain"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedBarbych%2FMohamedBarbych%2Ftree%2Fmain&countColor=%23263759" /></a>
 
 - 🔭 I’m currently working on **3d & 2d Game with Unity Game Engine**
 
