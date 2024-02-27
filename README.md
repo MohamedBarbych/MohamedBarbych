@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F700&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+BARBYCH" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F700&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+BARBYCH !" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Software Engineering & Intelligent Systems Student from Morocoo</h3>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedBarbych%2FMohamedBarbych%2Ftree%2Fmain"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMohamedBarbych%2FMohamedBarbych%2Ftree%2Fmain&countColor=%23263759" /></a>
 
