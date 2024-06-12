@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohamedbarbych.netlify.app/](https://mohamedbarbych.netlify.app/)
 
-- 💬 Ask me about **C,C++,JAVA**
+- 💬 Ask me about **C,C++,C#,JAVA**
 
 - 📫 How to reach me **mohamedbarbych1@gmail.com**
 
