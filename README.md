@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/MohamedBarbych/MohamedBarbych/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/MohamedBarbych/MohamedBarbych/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
