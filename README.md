@@ -5,13 +5,13 @@
 <h3 align="center">A Passionate Software Engineering & Intelligent Systems Student from Morocco 🇲🇦</h3>
 
 <p align="center">
-  <img src="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FMohamedBarbych%2FMohamedBarbych%2Ftree%2Fmain" alt="visitor badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedBarbych.MohamedBarbych" alt="visitor badge" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/MohamedBarbych/MohamedBarbych/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/MohamedBarbych/MohamedBarbych/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -57,4 +57,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBarbych&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamedBarbych&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
