@@ -6,6 +6,7 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedBarbych.MohamedBarbych" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=MohamedBarbych&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -16,20 +17,27 @@
 
 ---
 
-- 🔭 I’m currently working on **3D & 2D Game Development with Unity Game Engine**
-- 🌐 All of my projects are available at [My Portfolio](https://mohamed-barbych.netlify.app/)
-- 💬 Ask me about **C, C++, C#, Java**
-- 📫 How to reach me **mohamedbarbych1@gmail.com**
+### 🔭 What I'm Currently Working On:
+- **3D & 2D Game Development with Unity Game Engine**
+
+### 🌐 My Portfolio:
+- [Visit My Portfolio](https://mohamed-barbych.netlify.app/)
+
+### 💬 Ask Me About:
+- C, C++, C#, Java
+
+### 📫 How to Reach Me:
+- **Email**: mohamedbarbych1@gmail.com
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌍 Connect With Me:
 <p align="left">
   <a href="https://twitter.com/mbarbych50505" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mohamed-barbych" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" width="40" height="40"/> </a>
