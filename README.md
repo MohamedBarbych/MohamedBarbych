@@ -29,17 +29,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedBarbych.MohamedBarbych" alt="visitor badge" />
 </p>
 
----
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mbarbych50505" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/mohamed-barbych-42217b276" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -119,50 +109,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBarbych&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </div>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-- 💬 Ask me about **C, C++, C#, Java**
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedBarbych&show_icons=true&theme=chartreuse-dark&custom_title=Mohamed's%20GitHub%20Stats" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedBarbych&theme=chartreuse-dark&custom_title=Current%20Streak" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-### 📊 GitHub Profile Summary
-
-<p align="center">
-  <!-- Profile Details Card -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedBarbych&theme=ayu_mirage" alt="GitHub Profile Details" />
-  
-  <!-- Languages and Stats Cards Row -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedBarbych&theme=ayu_mirage" alt="Top Languages by Repo" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedBarbych&theme=ayu_mirage" alt="Most Used Languages by Commit" />
-  
-  <!-- Stats and Productive Time Cards Row -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedBarbych&theme=ayu_mirage" alt="GitHub Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedBarbych&theme=ayu_mirage&utcOffset=8" alt="Productive Time" />
-</p>
-
-
-### 💻 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBarbych&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</div>
-
----
-
 
