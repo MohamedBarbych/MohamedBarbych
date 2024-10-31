@@ -19,15 +19,7 @@
 </a>
 </p>
 
-<a align="center" href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F700&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+BARBYCH!" alt="Typing SVG" />
-</a>
 
-<h3 align="center">A Passionate Software Engineering & Intelligent Systems Student from Morocco 🇲🇦</h3>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedBarbych.MohamedBarbych" alt="visitor badge" />
-</p>
 
 
 
@@ -54,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
-<img src="https://skillicons.dev/icons?i=database" alt="Oracle" width="40" height="40"/>
 
   <!-- Other Technologies -->
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40"/>
