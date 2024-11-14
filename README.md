@@ -69,7 +69,7 @@
 
 ---
 
-- 💬 Ask me about **C, C++, C#, Java**
+- 💬 Ask me about ** C, C++, C#, Java **
 
 ---
 
