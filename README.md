@@ -1,7 +1,11 @@
 <a align="center" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C0F700&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+BARBYCH!" alt="Typing SVG" />
 </a>
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
+</p>
+
+
 <h3 align="center">A Passionate Software Engineering & Intelligent Systems Student 🇲🇦</h3>
 
 <p align="center">
