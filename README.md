@@ -78,10 +78,17 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedBarbych&show_icons=true&theme=chartreuse-dark&custom_title=Mohamed's%20GitHub%20Stats" alt="GitHub Stats" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=MohamedBarbych&theme=chartreuse-dark&custom_title=Current%20Streak" alt="GitHub Streak" width="48%" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MohamedBarbych&theme=blue-green" alt="GitHub Streak Stats" width="48%" />
+  </a>
 </div>
+
+
+
+
+
 
 ---
 
