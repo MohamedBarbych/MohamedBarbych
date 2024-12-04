@@ -85,7 +85,7 @@
     alt="GitHub Stats" 
     width="48%" 
   />
-  <!-- Streak Stats -->
+  <!----- Streak Stats ---->
   <img 
     src="https://streak-stats.demolab.com?user=MohamedBarbych&theme=blue-green" 
     alt="GitHub Streak Stats" 
