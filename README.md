@@ -44,6 +44,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
   
   <!----- Databases  ----->
