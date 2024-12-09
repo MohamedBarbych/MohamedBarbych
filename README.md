@@ -52,7 +52,7 @@
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
 
-  <!-- Other Technologies -->
+  <!--- Other Technologies --->
   <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=tensorflow" alt="Machine Learning" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
@@ -86,7 +86,7 @@
     alt="GitHub Stats" 
     width="48%" 
   />
-  <!-- Streak Stats -->
+  <!--- Streak Stats --->
   <img 
     src="https://streak-stats.demolab.com?user=MohamedBarbych&theme=blue-green" 
     alt="GitHub Streak Stats" 
