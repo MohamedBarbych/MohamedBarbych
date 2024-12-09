@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
   
-  <!-- Databases  --->
+  <!--- Databases  --->
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
@@ -80,7 +80,7 @@
 
 ### 📊 GitHub Stats
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-  <!--- GitHub Stats --->
+  <!---- GitHub Stats ---->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MohamedBarbych&show_icons=true&theme=chartreuse-dark&custom_title=Mohamed's%20GitHub%20Stats" 
     alt="GitHub Stats" 
