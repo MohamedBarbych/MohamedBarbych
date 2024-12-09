@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>
   
-  <!---- Databases  ---->
+  <!--- Databases  --->
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
@@ -86,7 +86,7 @@
     alt="GitHub Stats" 
     width="48%" 
   />
-  <!--- Streak Stats --->
+  <!-- Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=MohamedBarbych&theme=blue-green" 
     alt="GitHub Streak Stats" 
