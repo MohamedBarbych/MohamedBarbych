@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
 
-  <!--- Web Development Tools --->
+  <!---- Web Development Tools ---->
   <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
