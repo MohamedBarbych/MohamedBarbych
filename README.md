@@ -86,7 +86,7 @@
     alt="GitHub Stats" 
     width="48%" 
   />
-  <!--------------- Streak Stats --------------->
+  <!------------- Streak Stats ------------>
   <img 
     src="https://streak-stats.demolab.com?user=MohamedBarbych&theme=blue-green" 
     alt="GitHub Streak Stats" 
@@ -104,7 +104,7 @@
 ### 📊 GitHub Profile Summary
 
 <p align="center">
-  <!-----------------  Profile Details Card ----------------->
+  <!---------------  Profile Details Card --------------->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedBarbych&theme=ayu_mirage" alt="GitHub Profile Details" />
   
   <!----------------- Languages and Stats Cards Row ------------->
