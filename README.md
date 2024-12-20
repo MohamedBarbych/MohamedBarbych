@@ -107,11 +107,11 @@
   <!---------------  Profile Details Card --------------->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedBarbych&theme=ayu_mirage" alt="GitHub Profile Details" />
   
-  <!----------------- Languages and Stats Cards Row ------------->
+  <!-------------- Languages and Stats Cards Row ------------>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedBarbych&theme=ayu_mirage" alt="Top Languages by Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedBarbych&theme=ayu_mirage" alt="Most Used Languages by Commit" />
   
-  <!------------------ Stats and Productive Time Cards Row ------------------>
+  <!------------------ Stats and Productive Time Cards Row ----------------->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamedBarbych&theme=ayu_mirage" alt="GitHub Stats" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedBarbych&theme=ayu_mirage&utcOffset=8" alt="Productive Time" />
 </p>
