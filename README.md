@@ -80,7 +80,7 @@
 
 ### 📊 GitHub Stats
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-  <!--------------- GitHub Stats ------------->
+  <!------------ GitHub Stats ------------>
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MohamedBarbych&show_icons=true&theme=chartreuse-dark&custom_title=Mohamed's%20GitHub%20Stats" 
     alt="GitHub Stats" 
