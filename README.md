@@ -104,10 +104,10 @@
 ### 📊 GitHub Profile Summary
 
 <p align="center">
-  <!------------  Profile Details Card ------------->
+  <!------------  Profile Details Card ------------>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamedBarbych&theme=ayu_mirage" alt="GitHub Profile Details" />
   
-  <!--------- Languages and Stats Cards Row ---------->
+  <!---------- Languages and Stats Cards Row ---------->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamedBarbych&theme=ayu_mirage" alt="Top Languages by Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamedBarbych&theme=ayu_mirage" alt="Most Used Languages by Commit" />
   
