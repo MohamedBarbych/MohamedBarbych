@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">
 </p>
-     
+          
 
 <h3 align="center">A Passionate Software Engineering & Intelligent Systems Student 🇲🇦</h3>
 
@@ -80,13 +80,13 @@
 
 ### 📊 GitHub Stats
 <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-  <!----------- GitHub Stats ------------>
+  <!----------- GitHub Stats ----------->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MohamedBarbych&show_icons=true&theme=chartreuse-dark&custom_title=Mohamed's%20GitHub%20Stats" 
     alt="GitHub Stats" 
     width="48%" 
   />
-  <!----------- Streak Stats ----------->
+  <!---------- Streak Stats ----------->
   <img 
     src="https://streak-stats.demolab.com?user=MohamedBarbych&theme=blue-green" 
     alt="GitHub Streak Stats" 
