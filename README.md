@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="500">      
 </p>
           
-
+   
 <h3 align="center">A Passionate Software Engineering & Intelligent Systems Student 🇲🇦</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
      
 ---
-<h3 align="left">Connect with me:</h3>    
+<h3 align="left">Connect with me:</h3>      
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mohamed-barbych-42217b276" target="_blank">
