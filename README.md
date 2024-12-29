@@ -15,7 +15,7 @@
 </p>
      
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>    
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mohamed-barbych-42217b276" target="_blank">
