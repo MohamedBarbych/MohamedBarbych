@@ -116,8 +116,4 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamedBarbych&theme=ayu_mirage&utcOffset=8" alt="Productive Time" />
 </p>
 
-### 💻 Top Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBarbych&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
-</div>
 
