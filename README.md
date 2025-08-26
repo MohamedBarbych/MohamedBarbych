@@ -15,16 +15,46 @@
 </p> 
      
 ---
-<h3 align="left">Connect with me:</h3>                            
-<p align="left">
+<h3 align="">
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"> 
+  Let's Connect!
+</h3>
 
-<a href="https://www.linkedin.com/in/mohamed-barbych-42217b276" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-barbych/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</div>
 
                  
-                   
+                
+
+### ☕ **My Java-Coffee Relationship**
+
+<div align="">
+
+```java
+public class DeveloperLife {
+    private int coffeeCount = 0;
+    private boolean canCode = false;
+    
+    public void startDay() {
+        while(!canCode) {
+            coffeeCount++;
+            if(coffeeCount >= 2) {
+                canCode = true;
+                System.out.println("Ready to turn coffee into code! ");
+            }
+        }
+    }
+    
+    // The universal truth
+    public String getProductivity() {
+        return coffeeCount == 0 ? "Error 404: Brain not found" : 
+               coffeeCount < 2 ? "Loading..." : "Coding ninja activated! ";
+    }
+}
+```
 
 
 <h3 align="left">Languages and Tools:</h3>
