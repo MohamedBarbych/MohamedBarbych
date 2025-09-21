@@ -21,9 +21,10 @@
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-barbych/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-barbych/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
+
 </div>
 
                  
