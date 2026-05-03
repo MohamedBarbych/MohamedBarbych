@@ -59,43 +59,9 @@ public class DeveloperLife {
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <!-------- Core Programming Languages --------->
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/>
-
-  <!---------- Web Development Tools ------------>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/>   
-  
-  <!-------------- Databases  ----------------->
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="40" height="40"/>
-
-  <!------------ Other Technologies ----------->
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="Machine Learning" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="40" height="40"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,html,css,react,redux,nodejs,angular,express,mysql,mongodb,sqlite,spring,tensorflow,jenkins,git,github,docker,kubernetes,linux,ubuntu,unity&perline=9" />
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
