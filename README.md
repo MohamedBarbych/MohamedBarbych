@@ -8,7 +8,7 @@
 </p>    
                                                                                         
                        
-<h3 align="center">A Passionate Software & Intelligent Systems Engineer  🇫🇷 🇲🇦</h3>
+<h3 align="center">A Passionate Software & Intelligent Systems Engineer</h3>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MohamedBarbych.MohamedBarbych" alt="visitor badge" />
